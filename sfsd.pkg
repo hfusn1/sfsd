@@ -1,0 +1,13 @@
+v 1
+
+d Fitting the spatial stochastic frontier models 
+
+f sfsd.ado 
+f sfsd.sthlp 
+f sfsd_p.ado
+f lsfsd.mlib
+f sfsd_postestimation.sthlp
+f sfsd_ex1.dta 
+f sfsd_ex2.dta 
+f w_ex1.mmat
+f w_ex2.mmat
