@@ -1,0 +1,5 @@
+v 1
+
+d Spatial stochastic frontier models with endogeneity in the style of Kutlu et al. (2020)
+
+p spsfe.pkg

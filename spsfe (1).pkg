@@ -1,0 +1,13 @@
+v 1
+
+d Fitting the spatial stochastic frontier models with endogenous frontier and 
+d environmental variables
+
+f spsfe.ado 
+f spsfe.sthlp 
+f spsfe_p.ado
+f lspsfe.mlib
+f spsfe_postestimation.sthlp
+f spsfe1.dta 
+f spsfe2.dta 
+f w_ex1.mmat
