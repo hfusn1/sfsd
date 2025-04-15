@@ -4,4 +4,4 @@ Spatial Durbin stochastic frontier models with inefficiency spillovers fitting G
 
 Install
 
-net install sfsd, from("https://raw.githubusercontent.com/hfusn1/sfsd/refs/heads/main/")
+net install sfsd, from("https://raw.githubusercontent.com/hfusn1/sfsd/refs/heads/main/") all
